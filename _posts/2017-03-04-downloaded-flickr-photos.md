@@ -2,7 +2,7 @@
 layout: post
 title:  "downloaded Flickr photos"
 date:   2017-03-0 13:47:16 +0700
-permalink: /downloaded flickr photos/
+permalink: /downloaded-flickr-photos/
 categories: flickr
 tags: [downloaded, photo]
 ---

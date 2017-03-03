@@ -6,14 +6,14 @@ permalink: /jekyll-update-command/
 categories: jekyll
 tags: [update, gem]
 ---
-## 1. update all gems
+### 1. update all gems
 use `gem update`
 
-## 2. update specific gem
+### 2. update specific gem
 use `gem update gem-name`
 
-## 3. update bundle
+### 3. update bundle
 use `bundle update`
 
-## 4. update jekyll
+### 4. update jekyll
 use `gem jekyll update`

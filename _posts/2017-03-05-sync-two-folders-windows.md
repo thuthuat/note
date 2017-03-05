@@ -19,23 +19,23 @@ Dsynchronize
 
 Firstly, when you visit the above link, you have to scroll down a bit to get to the correct program. At first I thought I was on the wrong website because I kept reading about his first program called Dspeech. Scroll down past that and past Dshutdown and you’ll see Dsynchronize.
 
-[dsynchronize](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/dsynchronize.jpg)
+![dsynchronize](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/dsynchronize.jpg)
 
 As previously noted, it’s a pretty bad looking website. Thankfully, the software is clean and doesn’t contain any junkware, malware, ads, etc. Once you download the ZIP file, go ahead and extract all the files and then run the application file.
 
 When you first run the application, you’ll see two boxes at the top for source and destination. We need to configure those first.
 
-[dsychronize source dest](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/dsychronize-source-dest.jpg)
+![dsychronize source dest](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/dsychronize-source-dest.jpg)
 
 Check the box for Sources and then press **Enter**. You’ll now see two buttons appear at the right: **Filter** and **Browse**.
 
-[source path](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/source-path.jpg)
+![source path](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/source-path.jpg)
 
 Click the **Browse** button and choose your first folder. Once selected, you can click on the **Filter** button if you want to exclude certain types of files or to exclude subfolders. If you want everything synced, then don’t worry about the filter button.
 
 Now that we have our two folders selected, we can start configuring the options. By default, syncing will only work when you click on the **Synchronize** button. According to the documentation, you should perform a normal sync first before you enable real-time syncing.
 
-[dsynchronize options](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/dsynchronize-options1.jpg)
+![dsynchronize options](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/dsynchronize-options1.jpg)
 
 However, before we perform any sync, let’s configure the options. To start, if you want to keep changes synced between both folders, you should check **Bidirectional synchronization**. This will automatically enable the **Copy only newer files** box too. I also recommend checking **Create folder if not exists** so that when you create a new folder in one folder, it will automatically create the same folder in the other synced folder.
 
@@ -45,7 +45,7 @@ There are several more options, which are self-explanatory. If you are confused,
 
 Go ahead and click the **Synchronize** button to complete one sync. Once you have done this, you can now make some changes and then do another sync to make sure it’s working the way you want.
 
-[synchronize button](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/synchronize-button.jpg)
+![synchronize button](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/synchronize-button.jpg)
 
 In order to get the real-time sync, you have to check the **Realtime sync** box under **Special options**. Now if you leave the program window open and start adding, removing or updating files in the source or destination folder, you’ll see that the folders are updated automatically without any user intervention.
 
@@ -53,18 +53,20 @@ This is still not ideal because you have to keep the program window open, but th
 
 When you try to check the Autostart button, you will get a message saying you have to start Dsynchronize as an Administrator. In order to do this, close the program and then right-click on the application file and choose **Run as Administrator**.
 
-[run as admin](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/run-as-admin.jpg)
+![run as admin](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/run-as-admin.jpg)
 
 Now you should be able to check the **Autostart** box without the message. Next, check the **Autostart as service** box and you’ll get a popup where you have to click the** Install Service**button.
 
-[install as service](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/install-as-service.jpg)
+![install as service](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/install-as-service.jpg)
 
 Once you do that, the **Start Service** button will become clickable. Click on that and don’t worry about Account, Password, etc. Just make sure **System Account** is checked. Click **Done**and you should see the program now says it’s running as a service.
 
-[running as service](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/running-as-service.jpg)
+![running as service](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/running-as-service.jpg)
 
 That’s it! Now close the program and start updating, adding or deleting data from your folders and watch as those actions are instantly synced to the other folder.
 
-[sync two folders](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/sync-two-folders.jpg)
+![sync two folders](http://11986-presscdn-0-77.pagely.netdna-cdn.com/wp-content/uploads/2009/04/sync-two-folders.jpg)
 
 Overall, the program worked really well in my tests and I was impressed with the speed and also the fact that I could keep backups of the changes and see a log file of everything that was updated, added or deleted. If you have any questions, feel free to post a comment. Enjoy!
+
+http://www.online-tech-tips.com/free-software-downloads/sync-two-folders-windows/

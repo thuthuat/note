@@ -1,3 +1,11 @@
+----
+ -layout: post
+ -title:  "How to Sync Two Folders in Real Time in Windows"
+ -date:   2017-03-05 11:47:16 +0700
+ -permalink: /sync-two-folders-windows/
+ -categories: windows
+ -tags: [sync]
+ ----
 Ever wanted to keep two folders in two different locations synchronized in real-time? Maybe you have one folder on your desktop or laptop and you want to sync it with another PC in your home or to an external storage device like a USB hard disk or to a network attached storage device (NAS)?
 
 There are lots of freeware programs out there that can help you sync two folders, but very few of them do a good job of syncing the folders in real time. What I mean by real-time is that the user doesn’t have to manually open the program and run the synchronization or have to wait for the program to run on a recurring basis.
